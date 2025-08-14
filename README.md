@@ -102,6 +102,7 @@
   <ul class="customer-list" id="customerList"></ul>
 
   <script>
+    npm install @supabase/supabase-js
     const form = document.getElementById('customerForm');
     const customerList = document.getElementById('customerList');
     const searchInput = document.getElementById('search');
